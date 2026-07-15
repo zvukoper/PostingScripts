@@ -160,7 +160,7 @@
 
         const btn = document.createElement('button');
         btn.id = 'ok-social-insert-btn';
-        btn.textContent = 'Инструменты для соцсетей ЕР';
+        btn.textContent = 'Вставить теги и соцсети ЕР';
         // Фиксированное позиционирование
         btn.style.position = 'fixed';
         btn.style.top = '12px';
