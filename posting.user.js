@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Инструменты для соцсетей ЕР
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0.2
 // @description  Добавляет плавающую кнопку для вставки хештегов #ЕР72#ЕдинаяРоссия и ссылок на соцсети
 // @author       zvukoper
 // @match        https://ok.ru/*
